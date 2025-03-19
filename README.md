@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tubagus Athalla</h1>
-<h3 align="center">Im A WEB DEVELOPER AND ANDROID DEVELOPER</h3>
+<h3 align="center">Im A Backend Developer And Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tubagusatha&label=Profile%20views&color=0e75b6&style=flat" alt="tubagusatha" /> </p>
 
@@ -17,7 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/athallatb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="athallatb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tubagus athalla nibras islamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tubagus athalla nibras islamy" height="30" width="40" /></a>
+<a href="https://instagram.com/thallatb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thallatb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
